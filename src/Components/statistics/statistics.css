@@ -1,0 +1,25 @@
+.statBox {
+  text-align: center;
+}
+
+.feedbackBox {
+  display: flex;
+  justify-content: center;
+}
+
+.feedbackBox-Item {
+  margin-right: 20px;
+  color: blueviolet;
+  font-weight: 700;
+}
+
+span {
+  color: red;
+}
+
+.Total {
+  color: blueviolet;
+}
+.Positive {
+  color: blueviolet;
+}

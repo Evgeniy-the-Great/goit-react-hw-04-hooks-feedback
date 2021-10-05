@@ -1,0 +1,19 @@
+.Btn-Box {
+  text-align: center;
+}
+
+.Btn {
+  margin-right: 10px;
+  padding: 5px 10px;
+  border: 0;
+  border-radius: 5px;
+  background-color: teal;
+  color: aliceblue;
+  cursor: pointer;
+  transition: color, background-color, 300ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.Btn:hover {
+  color: black;
+  background-color: blueviolet;
+}
